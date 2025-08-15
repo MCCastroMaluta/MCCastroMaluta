@@ -78,6 +78,6 @@ Estoy en plena transformación profesional, y eso es lo que vas a ver reflejado 
 
 ## 🧠 Frase que me acompaña
 
-> "El mejor momento para comenzar fue ayer. El segundo mejor momento es hoy."
+> "No mires nunca de donde vienes, sino a donde vas." 
 
 
