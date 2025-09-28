@@ -31,7 +31,7 @@ Me capacité intensamente en análisis de datos, combinando cursos, práctica co
 - **Lenguajes:** Python, SQL, DAX  
 - **Librerías:** pandas, numpy, seaborn, matplotlib  
 - **Visualización:** Power BI, matplotlib, seaborn  
-- **Entornos:** Jupyter Notebook, Google Colab  
+- **Entornos:** Jupyter Notebook, VS Code  
 - **Otros:** Web Scraping con Apify, Git/GitHub, Excel avanzado
 
 ---
@@ -52,9 +52,9 @@ Aunque estoy iniciando en el campo del análisis de datos, traigo conmigo habili
 Mis repositorios están orientados a aplicar todo lo aprendido en contextos reales. Algunos de ellos:
 
 - **Presencia Web de Comercios Bonaerenses** → Scraping + Limpieza + Análisis + Visualización
-- **Dashboard de Ventas** → Power BI con datos simulados de e-commerce
-- **Análisis de Encuestas** → Python + Pandas para limpieza y detección de patrones
-- **Exploración de Datos Públicos** → INDEC, Banco Mundial, etc.
+- **Dashboard de Ventas** → 
+- **Análisis de Encuestas** → 
+- **Exploración de Datos Públicos** → 
 
 📌 Estoy priorizando la calidad sobre la cantidad: cada proyecto está bien documentado, estructurado y con foco en resolver una pregunta concreta.
 
