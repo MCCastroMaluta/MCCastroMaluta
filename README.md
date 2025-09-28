@@ -72,7 +72,7 @@ Estoy en plena transformación profesional, y eso es lo que vas a ver reflejado 
 
 - [💼 LinkedIn](https://www.linkedin.com/in/mc-castro-maluta/)  
 - ✉️ mccastromaluta@gmail.com
-- 📁 Portfolio (en construcción)
+- **💼 Portfolio:**[Mi Portfolio](https://www.datascienceportfol.io/mccastromaluta)
 
 ---
 
